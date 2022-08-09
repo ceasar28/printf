@@ -1,2 +1,2 @@
 # printf
-A team project with Esosa Omoigui
+A printf team project with Esosa Omoigui and Emmanuel Ekete
