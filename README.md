@@ -1,2 +1,2 @@
 # printf
-A team project with Esosa Omoigu 
+A team project with Esosa Omoigui
